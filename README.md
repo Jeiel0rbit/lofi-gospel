@@ -1,3 +1,8 @@
+<div align="center">
+   <img src="./logo_lofi-gospel.png" alt="LoFi Gospel Logo" style="max-width: 320px; width: 100%; height: auto; display: block; margin: 0 auto;" />
+</div>
+<br>
+
 # LoFi-Square - Bot de Rádio Lofi Gospel para Discord
 
 Um bot simples para tocar estações de rádio Lofi Gospel em servidores Discord. Comandos restritos a administradores e moderadores.
